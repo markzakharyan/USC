@@ -1,0 +1,6 @@
+richard thompson 5 {70423043, 65916072, 65243628, 70122316, 64178201}
+scott macdonald 1 {65675018}
+andrey vilesov 1 {66229612}
+todd brun 1 {66760128}
+peter chung 1 {67196841}
+peter foster 1 {67885320}
